@@ -24,51 +24,51 @@
   "rates": [
     {
       "key": "GBPEUR",
-      "rate": 1.1488
+      "rate": 1.1501
     },
     {
       "key": "GBPSEK",
-      "rate": 12.2671
+      "rate": 12.2927
     },
     {
       "key": "GBPPLN",
-      "rate": 4.8924
+      "rate": 4.9137
     },
     {
       "key": "EURGBP",
-      "rate": 0.8705
+      "rate": 0.8695
     },
     {
       "key": "EURSEK",
-      "rate": 10.6785
+      "rate": 10.6885
     },
     {
       "key": "EURPLN",
-      "rate": 4.2588
+      "rate": 4.2725
     },
     {
       "key": "SEKGBP",
-      "rate": 0.08152
+      "rate": 0.08135
     },
     {
       "key": "SEKEUR",
-      "rate": 0.09365
+      "rate": 0.09356
     },
     {
       "key": "SEKPLN",
-      "rate": 0.39882
+      "rate": 0.39973
     },
     {
       "key": "PLNGBP",
-      "rate": 0.2044
+      "rate": 0.20351
     },
     {
       "key": "PLNEUR",
-      "rate": 0.23481
+      "rate": 0.23406
     },
     {
       "key": "PLNSEK",
-      "rate": 2.5074
+      "rate": 2.5017
     }
   ]
 }
