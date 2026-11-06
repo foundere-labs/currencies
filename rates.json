@@ -89,299 +89,299 @@
   "rates": [
     {
       "key": "GBPEUR",
-      "rate": 1.1984
+      "rate": 1.1977
     },
     {
       "key": "GBPSEK",
-      "rate": 13.1327
+      "rate": 13.1758
     },
     {
       "key": "GBPPLN",
-      "rate": 5.267
+      "rate": 5.2719
     },
     {
       "key": "GBPUSD",
-      "rate": 1.3474
+      "rate": 1.3458
     },
     {
       "key": "GBPCAD",
-      "rate": 1.879
+      "rate": 1.8823
     },
     {
       "key": "GBPMXN",
-      "rate": 25.11
+      "rate": 25.086
     },
     {
       "key": "GBPBRL",
-      "rate": 7.369
+      "rate": 7.3662
     },
     {
       "key": "GBPJPY",
-      "rate": 213.31
+      "rate": 212.86
     },
     {
       "key": "GBPINR",
-      "rate": 127.39
+      "rate": 126.88
     },
     {
       "key": "GBPAUD",
-      "rate": 1.9238
+      "rate": 1.9326
     },
     {
       "key": "GBPSGD",
-      "rate": 1.7217
+      "rate": 1.7196
     },
     {
       "key": "GBPAED",
-      "rate": 4.9484
+      "rate": 4.9423
     },
     {
       "key": "GBPSAR",
-      "rate": 5.0528
+      "rate": 5.0466
     },
     {
       "key": "GBPTRY",
-      "rate": 67.4
+      "rate": 67.365
     },
     {
       "key": "GBPEGP",
-      "rate": 73.846
+      "rate": 72.914
     },
     {
       "key": "GBPCHF",
-      "rate": 1.1008
+      "rate": 1.0994
     },
     {
       "key": "EURGBP",
-      "rate": 0.83446
+      "rate": 0.83491
     },
     {
       "key": "EURSEK",
-      "rate": 10.9588
+      "rate": 11.0005
     },
     {
       "key": "EURPLN",
-      "rate": 4.3951
+      "rate": 4.4016
     },
     {
       "key": "EURUSD",
-      "rate": 1.1244
+      "rate": 1.1236
     },
     {
       "key": "EURCAD",
-      "rate": 1.568
+      "rate": 1.5715
     },
     {
       "key": "EURMXN",
-      "rate": 20.953
+      "rate": 20.945
     },
     {
       "key": "EURBRL",
-      "rate": 6.1492
+      "rate": 6.1501
     },
     {
       "key": "EURJPY",
-      "rate": 178.0
+      "rate": 177.72
     },
     {
       "key": "EURINR",
-      "rate": 106.31
+      "rate": 105.93
     },
     {
       "key": "EURAUD",
-      "rate": 1.6054
+      "rate": 1.6135
     },
     {
       "key": "EURSGD",
-      "rate": 1.4367
+      "rate": 1.4357
     },
     {
       "key": "EURAED",
-      "rate": 4.1293
+      "rate": 4.1263
     },
     {
       "key": "EURSAR",
-      "rate": 4.2164
+      "rate": 4.2134
     },
     {
       "key": "EURTRY",
-      "rate": 56.243
+      "rate": 56.244
     },
     {
       "key": "EUREGP",
-      "rate": 61.622
+      "rate": 60.877
     },
     {
       "key": "EURCHF",
-      "rate": 0.91862
+      "rate": 0.91792
     },
     {
       "key": "SEKGBP",
-      "rate": 0.076146
+      "rate": 0.075897
     },
     {
       "key": "SEKEUR",
-      "rate": 0.091251
+      "rate": 0.090905
     },
     {
       "key": "SEKPLN",
-      "rate": 0.40106
+      "rate": 0.40012
     },
     {
       "key": "SEKUSD",
-      "rate": 0.1026
+      "rate": 0.10214
     },
     {
       "key": "SEKCAD",
-      "rate": 0.14308
+      "rate": 0.14286
     },
     {
       "key": "SEKMXN",
-      "rate": 1.912
+      "rate": 1.904
     },
     {
       "key": "SEKBRL",
-      "rate": 0.56112
+      "rate": 0.55907
     },
     {
       "key": "SEKJPY",
-      "rate": 16.2423
+      "rate": 16.1558
     },
     {
       "key": "SEKINR",
-      "rate": 9.7005
+      "rate": 9.6298
     },
     {
       "key": "SEKAUD",
-      "rate": 0.14649
+      "rate": 0.14668
     },
     {
       "key": "SEKSGD",
-      "rate": 0.1311
+      "rate": 0.13051
     },
     {
       "key": "SEKAED",
-      "rate": 0.3768
+      "rate": 0.3751
     },
     {
       "key": "SEKSAR",
-      "rate": 0.38475
+      "rate": 0.38302
     },
     {
       "key": "SEKTRY",
-      "rate": 5.1322
+      "rate": 5.1128
     },
     {
       "key": "SEKEGP",
-      "rate": 5.623
+      "rate": 5.534
     },
     {
       "key": "SEKCHF",
-      "rate": 0.083825
+      "rate": 0.083443
     },
     {
       "key": "PLNGBP",
-      "rate": 0.18986
+      "rate": 0.18968
     },
     {
       "key": "PLNEUR",
-      "rate": 0.22752
+      "rate": 0.22719
     },
     {
       "key": "PLNSEK",
-      "rate": 2.4934
+      "rate": 2.4992
     },
     {
       "key": "PLNUSD",
-      "rate": 0.25582
+      "rate": 0.25527
     },
     {
       "key": "PLNCAD",
-      "rate": 0.35676
+      "rate": 0.35704
     },
     {
       "key": "PLNMXN",
-      "rate": 4.7674
+      "rate": 4.7585
     },
     {
       "key": "PLNBRL",
-      "rate": 1.3991
+      "rate": 1.3973
     },
     {
       "key": "PLNJPY",
-      "rate": 40.498
+      "rate": 40.377
     },
     {
       "key": "PLNINR",
-      "rate": 24.187
+      "rate": 24.067
     },
     {
       "key": "PLNAUD",
-      "rate": 0.36526
+      "rate": 0.36658
     },
     {
       "key": "PLNSGD",
-      "rate": 0.32688
+      "rate": 0.32618
     },
     {
       "key": "PLNAED",
-      "rate": 0.93951
+      "rate": 0.93747
     },
     {
       "key": "PLNSAR",
-      "rate": 0.95933
+      "rate": 0.95726
     },
     {
       "key": "PLNTRY",
-      "rate": 12.7967
+      "rate": 12.7781
     },
     {
       "key": "PLNEGP",
-      "rate": 14.0204
+      "rate": 13.8307
     },
     {
       "key": "PLNCHF",
-      "rate": 0.20901
+      "rate": 0.20854
     },
     {
       "key": "USDGBP",
-      "rate": 0.74216
+      "rate": 0.74308
     },
     {
       "key": "USDEUR",
-      "rate": 0.88938
+      "rate": 0.89001
     },
     {
       "key": "USDSEK",
-      "rate": 9.7466
+      "rate": 9.7906
     },
     {
       "key": "USDPLN",
-      "rate": 3.909
+      "rate": 3.9174
     },
     {
       "key": "USDCAD",
-      "rate": 1.3945
+      "rate": 1.3987
     },
     {
       "key": "USDMXN",
-      "rate": 18.6356
+      "rate": 18.641
     },
     {
       "key": "USDBRL",
-      "rate": 5.469
+      "rate": 5.4737
     },
     {
       "key": "USDJPY",
-      "rate": 158.31
+      "rate": 158.18
     },
     {
       "key": "USDINR",
-      "rate": 94.55
+      "rate": 94.28
     },
     {
       "key": "USDAUD",
-      "rate": 1.4278
+      "rate": 1.4361
     },
     {
       "key": "USDSGD",
@@ -397,443 +397,443 @@
     },
     {
       "key": "USDTRY",
-      "rate": 50.022
+      "rate": 50.058
     },
     {
       "key": "USDEGP",
-      "rate": 54.805
+      "rate": 54.181
     },
     {
       "key": "USDCHF",
-      "rate": 0.817
+      "rate": 0.81696
     },
     {
       "key": "CADGBP",
-      "rate": 0.53219
+      "rate": 0.53127
     },
     {
       "key": "CADEUR",
-      "rate": 0.63776
+      "rate": 0.63632
     },
     {
       "key": "CADSEK",
-      "rate": 6.9891
+      "rate": 6.9999
     },
     {
       "key": "CADPLN",
-      "rate": 2.803
+      "rate": 2.8008
     },
     {
       "key": "CADUSD",
-      "rate": 0.71708
+      "rate": 0.71496
     },
     {
       "key": "CADMXN",
-      "rate": 13.3632
+      "rate": 13.3276
     },
     {
       "key": "CADBRL",
-      "rate": 3.9217
+      "rate": 3.9134
     },
     {
       "key": "CADJPY",
-      "rate": 113.52
+      "rate": 113.09
     },
     {
       "key": "CADINR",
-      "rate": 67.797
+      "rate": 67.407
     },
     {
       "key": "CADAUD",
-      "rate": 1.0238
+      "rate": 1.0267
     },
     {
       "key": "CADSGD",
-      "rate": 0.91627
+      "rate": 0.91356
     },
     {
       "key": "CADAED",
-      "rate": 2.6335
+      "rate": 2.6257
     },
     {
       "key": "CADSAR",
-      "rate": 2.689
+      "rate": 2.6811
     },
     {
       "key": "CADTRY",
-      "rate": 35.87
+      "rate": 35.789
     },
     {
       "key": "CADEGP",
-      "rate": 39.3
+      "rate": 38.737
     },
     {
       "key": "CADCHF",
-      "rate": 0.58585
+      "rate": 0.58409
     },
     {
       "key": "MXNGBP",
-      "rate": 0.039825
+      "rate": 0.039863
     },
     {
       "key": "MXNEUR",
-      "rate": 0.047725
+      "rate": 0.047745
     },
     {
       "key": "MXNSEK",
-      "rate": 0.52301
+      "rate": 0.52522
     },
     {
       "key": "MXNPLN",
-      "rate": 0.20976
+      "rate": 0.21015
     },
     {
       "key": "MXNUSD",
-      "rate": 0.053661
+      "rate": 0.053645
     },
     {
       "key": "MXNCAD",
-      "rate": 0.074832
+      "rate": 0.075033
     },
     {
       "key": "MXNBRL",
-      "rate": 0.29347
+      "rate": 0.29364
     },
     {
       "key": "MXNJPY",
-      "rate": 8.4948
+      "rate": 8.4853
     },
     {
       "key": "MXNINR",
-      "rate": 5.0734
+      "rate": 5.0577
     },
     {
       "key": "MXNAUD",
-      "rate": 0.076616
+      "rate": 0.077037
     },
     {
       "key": "MXNSGD",
-      "rate": 0.068567
+      "rate": 0.068547
     },
     {
       "key": "MXNAED",
-      "rate": 0.19707
+      "rate": 0.19701
     },
     {
       "key": "MXNSAR",
-      "rate": 0.20123
+      "rate": 0.20117
     },
     {
       "key": "MXNTRY",
-      "rate": 2.6842
+      "rate": 2.6854
     },
     {
       "key": "MXNEGP",
-      "rate": 2.9409
+      "rate": 2.9066
     },
     {
       "key": "MXNCHF",
-      "rate": 0.043841
+      "rate": 0.043826
     },
     {
       "key": "BRLGBP",
-      "rate": 0.1357
+      "rate": 0.13576
     },
     {
       "key": "BRLEUR",
-      "rate": 0.16262
+      "rate": 0.1626
     },
     {
       "key": "BRLSEK",
-      "rate": 1.7822
+      "rate": 1.7887
     },
     {
       "key": "BRLPLN",
-      "rate": 0.71475
+      "rate": 0.71569
     },
     {
       "key": "BRLUSD",
-      "rate": 0.18285
+      "rate": 0.18269
     },
     {
       "key": "BRLCAD",
-      "rate": 0.25499
+      "rate": 0.25553
     },
     {
       "key": "BRLMXN",
-      "rate": 3.4075
+      "rate": 3.4056
     },
     {
       "key": "BRLJPY",
-      "rate": 28.946
+      "rate": 28.897
     },
     {
       "key": "BRLINR",
-      "rate": 17.2879
+      "rate": 17.2245
     },
     {
       "key": "BRLAUD",
-      "rate": 0.26107
+      "rate": 0.26236
     },
     {
       "key": "BRLSGD",
-      "rate": 0.23364
+      "rate": 0.23344
     },
     {
       "key": "BRLAED",
-      "rate": 0.67152
+      "rate": 0.67094
     },
     {
       "key": "BRLSAR",
-      "rate": 0.68569
+      "rate": 0.6851
     },
     {
       "key": "BRLTRY",
-      "rate": 9.1465
+      "rate": 9.1452
     },
     {
       "key": "BRLEGP",
-      "rate": 10.0211
+      "rate": 9.8985
     },
     {
       "key": "BRLCHF",
-      "rate": 0.14939
+      "rate": 0.14925
     },
     {
       "key": "JPYGBP",
-      "rate": 0.0046881
+      "rate": 0.0046978
     },
     {
       "key": "JPYEUR",
-      "rate": 0.0056181
+      "rate": 0.0056268
     },
     {
       "key": "JPYSEK",
-      "rate": 0.061568
+      "rate": 0.061897
     },
     {
       "key": "JPYPLN",
-      "rate": 0.024692
+      "rate": 0.024767
     },
     {
       "key": "JPYUSD",
-      "rate": 0.0063169
+      "rate": 0.0063221
     },
     {
       "key": "JPYCAD",
-      "rate": 0.0088092
+      "rate": 0.0088426
     },
     {
       "key": "JPYMXN",
-      "rate": 0.11772
+      "rate": 0.11785
     },
     {
       "key": "JPYBRL",
-      "rate": 0.034547
+      "rate": 0.034605
     },
     {
       "key": "JPYINR",
-      "rate": 0.59724
+      "rate": 0.59606
     },
     {
       "key": "JPYAUD",
-      "rate": 0.0090191
+      "rate": 0.0090789
     },
     {
       "key": "JPYSGD",
-      "rate": 0.0080716
+      "rate": 0.0080783
     },
     {
       "key": "JPYAED",
-      "rate": 0.023199
+      "rate": 0.023218
     },
     {
       "key": "JPYSAR",
-      "rate": 0.023688
+      "rate": 0.023708
     },
     {
       "key": "JPYTRY",
-      "rate": 0.31598
+      "rate": 0.31647
     },
     {
       "key": "JPYEGP",
-      "rate": 0.3462
+      "rate": 0.34254
     },
     {
       "key": "JPYCHF",
-      "rate": 0.0051609
+      "rate": 0.0051649
     },
     {
       "key": "INRGBP",
-      "rate": 0.0078497
+      "rate": 0.0078815
     },
     {
       "key": "INREUR",
-      "rate": 0.0094068
+      "rate": 0.00944
     },
     {
       "key": "INRSEK",
-      "rate": 0.10309
+      "rate": 0.10384
     },
     {
       "key": "INRPLN",
-      "rate": 0.041344
+      "rate": 0.041551
     },
     {
       "key": "INRUSD",
-      "rate": 0.010577
+      "rate": 0.010607
     },
     {
       "key": "INRCAD",
-      "rate": 0.01475
+      "rate": 0.014835
     },
     {
       "key": "INRMXN",
-      "rate": 0.1971
+      "rate": 0.19772
     },
     {
       "key": "INRBRL",
-      "rate": 0.057844
+      "rate": 0.058057
     },
     {
       "key": "INRJPY",
-      "rate": 1.6744
+      "rate": 1.6777
     },
     {
       "key": "INRAUD",
-      "rate": 0.015101
+      "rate": 0.015232
     },
     {
       "key": "INRSGD",
-      "rate": 0.013515
+      "rate": 0.013553
     },
     {
       "key": "INRAED",
-      "rate": 0.038843
+      "rate": 0.038953
     },
     {
       "key": "INRSAR",
-      "rate": 0.039663
+      "rate": 0.039775
     },
     {
       "key": "INRTRY",
-      "rate": 0.52907
+      "rate": 0.53094
     },
     {
       "key": "INREGP",
-      "rate": 0.57966
+      "rate": 0.57468
     },
     {
       "key": "INRCHF",
-      "rate": 0.0086413
+      "rate": 0.0086651
     },
     {
       "key": "AUDGBP",
-      "rate": 0.5198
+      "rate": 0.51745
     },
     {
       "key": "AUDEUR",
-      "rate": 0.62292
+      "rate": 0.61976
     },
     {
       "key": "AUDSEK",
-      "rate": 6.8264
+      "rate": 6.8177
     },
     {
       "key": "AUDPLN",
-      "rate": 2.7378
+      "rate": 2.7279
     },
     {
       "key": "AUDUSD",
-      "rate": 0.70039
+      "rate": 0.69635
     },
     {
       "key": "AUDCAD",
-      "rate": 0.97673
+      "rate": 0.97398
     },
     {
       "key": "AUDMXN",
-      "rate": 13.0522
+      "rate": 12.9807
     },
     {
       "key": "AUDBRL",
-      "rate": 3.8304
+      "rate": 3.8116
     },
     {
       "key": "AUDJPY",
-      "rate": 110.88
+      "rate": 110.15
     },
     {
       "key": "AUDINR",
-      "rate": 66.22
+      "rate": 65.653
     },
     {
       "key": "AUDSGD",
-      "rate": 0.89494
+      "rate": 0.88979
     },
     {
       "key": "AUDAED",
-      "rate": 2.5722
+      "rate": 2.5574
     },
     {
       "key": "AUDSAR",
-      "rate": 2.6265
+      "rate": 2.6113
     },
     {
       "key": "AUDTRY",
-      "rate": 35.035
+      "rate": 34.858
     },
     {
       "key": "AUDEGP",
-      "rate": 38.385
+      "rate": 37.729
     },
     {
       "key": "AUDCHF",
-      "rate": 0.57222
+      "rate": 0.56889
     },
     {
       "key": "SGDGBP",
-      "rate": 0.58082
+      "rate": 0.58154
     },
     {
       "key": "SGDEUR",
-      "rate": 0.69604
+      "rate": 0.69653
     },
     {
       "key": "SGDSEK",
-      "rate": 7.6277
+      "rate": 7.6622
     },
     {
       "key": "SGDPLN",
-      "rate": 3.0592
+      "rate": 3.0658
     },
     {
       "key": "SGDUSD",
-      "rate": 0.78261
+      "rate": 0.7826
     },
     {
       "key": "SGDCAD",
-      "rate": 1.0914
+      "rate": 1.0946
     },
     {
       "key": "SGDMXN",
-      "rate": 14.5844
+      "rate": 14.5885
     },
     {
       "key": "SGDBRL",
-      "rate": 4.2801
+      "rate": 4.2837
     },
     {
       "key": "SGDJPY",
-      "rate": 123.89
+      "rate": 123.79
     },
     {
       "key": "SGDINR",
-      "rate": 73.993
+      "rate": 73.785
     },
     {
       "key": "SGDAUD",
-      "rate": 1.1174
+      "rate": 1.1239
     },
     {
       "key": "SGDAED",
@@ -845,31 +845,31 @@
     },
     {
       "key": "SGDTRY",
-      "rate": 39.147
+      "rate": 39.175
     },
     {
       "key": "SGDEGP",
-      "rate": 42.891
+      "rate": 42.402
     },
     {
       "key": "SGDCHF",
-      "rate": 0.63939
+      "rate": 0.63936
     },
     {
       "key": "AEDGBP",
-      "rate": 0.20209
+      "rate": 0.20234
     },
     {
       "key": "AEDEUR",
-      "rate": 0.24217
+      "rate": 0.24235
     },
     {
       "key": "AEDSEK",
-      "rate": 2.6539
+      "rate": 2.6659
     },
     {
       "key": "AEDPLN",
-      "rate": 1.0644
+      "rate": 1.0667
     },
     {
       "key": "AEDUSD",
@@ -877,27 +877,27 @@
     },
     {
       "key": "AEDCAD",
-      "rate": 0.37973
+      "rate": 0.38085
     },
     {
       "key": "AEDMXN",
-      "rate": 5.0744
+      "rate": 5.0758
     },
     {
       "key": "AEDBRL",
-      "rate": 1.4892
+      "rate": 1.4904
     },
     {
       "key": "AEDJPY",
-      "rate": 43.106
+      "rate": 43.07
     },
     {
       "key": "AEDINR",
-      "rate": 25.745
+      "rate": 25.672
     },
     {
       "key": "AEDAUD",
-      "rate": 0.38878
+      "rate": 0.39103
     },
     {
       "key": "AEDSGD",
@@ -909,31 +909,31 @@
     },
     {
       "key": "AEDTRY",
-      "rate": 13.6207
+      "rate": 13.6304
     },
     {
       "key": "AEDEGP",
-      "rate": 14.9232
+      "rate": 14.7532
     },
     {
       "key": "AEDCHF",
-      "rate": 0.22247
+      "rate": 0.22245
     },
     {
       "key": "SARGBP",
-      "rate": 0.19791
+      "rate": 0.19815
     },
     {
       "key": "SAREUR",
-      "rate": 0.23717
+      "rate": 0.23734
     },
     {
       "key": "SARSEK",
-      "rate": 2.5991
+      "rate": 2.6108
     },
     {
       "key": "SARPLN",
-      "rate": 1.0424
+      "rate": 1.0447
     },
     {
       "key": "SARUSD",
@@ -941,27 +941,27 @@
     },
     {
       "key": "SARCAD",
-      "rate": 0.37188
+      "rate": 0.37298
     },
     {
       "key": "SARMXN",
-      "rate": 4.9695
+      "rate": 4.9709
     },
     {
       "key": "SARBRL",
-      "rate": 1.4584
+      "rate": 1.4596
     },
     {
       "key": "SARJPY",
-      "rate": 42.215
+      "rate": 42.18
     },
     {
       "key": "SARINR",
-      "rate": 25.212
+      "rate": 25.142
     },
     {
       "key": "SARAUD",
-      "rate": 0.38074
+      "rate": 0.38295
     },
     {
       "key": "SARSGD",
@@ -973,19 +973,19 @@
     },
     {
       "key": "SARTRY",
-      "rate": 13.3392
+      "rate": 13.3487
     },
     {
       "key": "SAREGP",
-      "rate": 14.6147
+      "rate": 14.4483
     },
     {
       "key": "SARCHF",
-      "rate": 0.21787
+      "rate": 0.21786
     },
     {
       "key": "TRYGBP",
-      "rate": 0.014837
+      "rate": 0.014844
     },
     {
       "key": "TRYEUR",
@@ -993,187 +993,187 @@
     },
     {
       "key": "TRYSEK",
-      "rate": 0.19485
+      "rate": 0.19559
     },
     {
       "key": "TRYPLN",
-      "rate": 0.078145
+      "rate": 0.078259
     },
     {
       "key": "TRYUSD",
-      "rate": 0.019991
+      "rate": 0.019977
     },
     {
       "key": "TRYCAD",
-      "rate": 0.027879
+      "rate": 0.027941
     },
     {
       "key": "TRYMXN",
-      "rate": 0.37255
+      "rate": 0.37239
     },
     {
       "key": "TRYBRL",
-      "rate": 0.10933
+      "rate": 0.10935
     },
     {
       "key": "TRYJPY",
-      "rate": 3.1647
+      "rate": 3.1599
     },
     {
       "key": "TRYINR",
-      "rate": 1.8901
+      "rate": 1.8835
     },
     {
       "key": "TRYAUD",
-      "rate": 0.028543
+      "rate": 0.028688
     },
     {
       "key": "TRYSGD",
-      "rate": 0.025544
+      "rate": 0.025526
     },
     {
       "key": "TRYAED",
-      "rate": 0.073418
+      "rate": 0.073365
     },
     {
       "key": "TRYSAR",
-      "rate": 0.074967
+      "rate": 0.074914
     },
     {
       "key": "TRYEGP",
-      "rate": 1.0956
+      "rate": 1.0824
     },
     {
       "key": "TRYCHF",
-      "rate": 0.016333
+      "rate": 0.01632
     },
     {
       "key": "EGPGBP",
-      "rate": 0.013542
+      "rate": 0.013715
     },
     {
       "key": "EGPEUR",
-      "rate": 0.016228
+      "rate": 0.016427
     },
     {
       "key": "EGPSEK",
-      "rate": 0.17784
+      "rate": 0.1807
     },
     {
       "key": "EGPPLN",
-      "rate": 0.071325
+      "rate": 0.072303
     },
     {
       "key": "EGPUSD",
-      "rate": 0.018246
+      "rate": 0.018457
     },
     {
       "key": "EGPCAD",
-      "rate": 0.025446
+      "rate": 0.025815
     },
     {
       "key": "EGPMXN",
-      "rate": 0.34003
+      "rate": 0.34405
     },
     {
       "key": "EGPBRL",
-      "rate": 0.099789
+      "rate": 0.10103
     },
     {
       "key": "EGPJPY",
-      "rate": 2.8885
+      "rate": 2.9194
     },
     {
       "key": "EGPINR",
-      "rate": 1.7251
+      "rate": 1.7401
     },
     {
       "key": "EGPAUD",
-      "rate": 0.026052
+      "rate": 0.026505
     },
     {
       "key": "EGPSGD",
-      "rate": 0.023315
+      "rate": 0.023584
     },
     {
       "key": "EGPAED",
-      "rate": 0.06701
+      "rate": 0.067782
     },
     {
       "key": "EGPSAR",
-      "rate": 0.068424
+      "rate": 0.069212
     },
     {
       "key": "EGPTRY",
-      "rate": 0.91272
+      "rate": 0.9239
     },
     {
       "key": "EGPCHF",
-      "rate": 0.014907
+      "rate": 0.015078
     },
     {
       "key": "CHFGBP",
-      "rate": 0.90839
+      "rate": 0.90957
     },
     {
       "key": "CHFEUR",
-      "rate": 1.0886
+      "rate": 1.0894
     },
     {
       "key": "CHFSEK",
-      "rate": 11.9297
+      "rate": 11.9842
     },
     {
       "key": "CHFPLN",
-      "rate": 4.7845
+      "rate": 4.7952
     },
     {
       "key": "CHFUSD",
-      "rate": 1.224
+      "rate": 1.2241
     },
     {
       "key": "CHFCAD",
-      "rate": 1.7069
+      "rate": 1.7121
     },
     {
       "key": "CHFMXN",
-      "rate": 22.81
+      "rate": 22.818
     },
     {
       "key": "CHFBRL",
-      "rate": 6.6939
+      "rate": 6.7
     },
     {
       "key": "CHFJPY",
-      "rate": 193.77
+      "rate": 193.61
     },
     {
       "key": "CHFINR",
-      "rate": 115.72
+      "rate": 115.41
     },
     {
       "key": "CHFAUD",
-      "rate": 1.7476
+      "rate": 1.7578
     },
     {
       "key": "CHFSGD",
-      "rate": 1.564
+      "rate": 1.5641
     },
     {
       "key": "CHFAED",
-      "rate": 4.4951
+      "rate": 4.4953
     },
     {
       "key": "CHFSAR",
-      "rate": 4.5899
+      "rate": 4.5902
     },
     {
       "key": "CHFTRY",
-      "rate": 61.226
+      "rate": 61.273
     },
     {
       "key": "CHFEGP",
-      "rate": 67.081
+      "rate": 66.32
     }
   ]
 }
